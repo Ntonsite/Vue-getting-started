@@ -1,8 +1,7 @@
-# Vue Tutorial
+# Vue JS
 
 We're going to create a small application with Vue. 
 
-### [Read the tutorial](https://taniarascia.com/getting-started-with-vue) | [View the demo](https://taniarascia.github.io/vue-tutorial)
 
 ## Purpose
 
@@ -19,16 +18,16 @@ The app will be a simple employee database and we'll learn:
 ## Installation
 
 ```
-git clone https://github.com/taniarascia/vue-tutorial
+git clone https://github.com/ntonsite/Vue-getting-started
 cd vue-tutorial
 yarn
 yarn serve
+
+or
+npm i
+npm run serve
 ```
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+- [Ntonsite Mwamlima](https://www.ntonsite.com)
